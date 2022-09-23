@@ -17,10 +17,9 @@ class Program
     }
 }
 
-// Output
+/*Output 
 What is your firstName?
 Florence
 What is your secondName?
 Nyokabi
-
-Hello Florence Nyokabi
+Hello Florence Nyokabi */
