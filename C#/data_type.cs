@@ -1,0 +1,7 @@
+int myNum = 5;                          // Integer (whole number) (4 bytes)
+long myLong = 9,223,372,036,854,775,807 // long (whole numbers) (8 bytes)
+double myDoubleNum = 5.99D;             // Floating point number  (8 bytes)
+float myFloat =    0.33                 // Floating point number (4 bytes)
+char myLetter = 'D';                    // Character (2 bytes)
+bool myBool = true;                     // Boolean (1 bit)
+string myText = "Hello";                // String (2 bytes per char)
